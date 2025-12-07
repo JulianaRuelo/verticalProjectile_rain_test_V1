@@ -8,7 +8,6 @@
  
   .projectile {
     position: absolute;
-    background-color: red;
     border-radius: 90%;
     animation: moveProjectile 3s linear infinite;
  

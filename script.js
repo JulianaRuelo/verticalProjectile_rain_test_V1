@@ -30,7 +30,7 @@
 
        
         $projectile.animate({
-            left: '-100px', 
+            screenTop: '+100px', 
         }, 3000, 'linear', function() {
             $(this).remove(); 
         });
